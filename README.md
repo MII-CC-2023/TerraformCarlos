@@ -25,7 +25,7 @@ provider "google"{
 }
 ```
 
-## 5º Paso: Aplicar estos ficheros
+## 3º Paso: Aplicar estos ficheros
 
 Una vez que hemos generado dichos ficheros, ejecutaremos el siguiente comando para que se lleven a cabo las funciones que tienen estos:
 
